@@ -1,0 +1,12 @@
+106程式：/home/hadoop/program/total_scripts/02jpg_upload_hdfs_2019011_debug_single_carrier_v1_01.py
+"上传carrier JPG文件上传至HDFS，
+目录/P8AOI/MapData/年月日目录
+,同时URL信息出入Kudu
+table:allie.aoi_imageurl
+Hbase:ie4_p8_csv
+一共6只，每只对应一个目录
+处理完后存入目录
+/hdata/buffer/total_pre_arch/"
+
+JOB执行方式-gocron
+JOB名:carrier_JPG_upload

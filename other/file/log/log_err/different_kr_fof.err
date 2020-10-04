@@ -1,0 +1,2 @@
+20/09/11 00:45:00 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FImageData%2FKR-FOF%2F20200910

@@ -1,0 +1,8 @@
+71程式分拣程式：/home/armap/kuduprogram/
+01_sftp_hdata_aoi_csv_move_kudu_aoi_csv_tmp_v1.py
+将/hdata/sftp/aoisftp/csv/
+分拣至10.41.158.80的10个目录
+/data/buffer/kudu_aoi_csv_tmp/1~10
+JOB执行方式-gocron
+Job Name:01_hdata_aoi_csv
+Job ID:57

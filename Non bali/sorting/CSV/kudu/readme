@@ -1,0 +1,6 @@
+80程式：/home/armap/kuduprogram/
+p8_AOI_upload_data_buffer_tmp/p8_AOI_upload_current_20190910_v1_local_data_buffer_tmp_1.py
+将目录中/data/buffer/kudu_aoi_csv_tmp/1~10正确csv文件,
+解析并上传至kudu，成功上传后将文件存入待存hbase目录
+/data/buffer/hbase_aoi_csv
+JOB执行方式-crontab-每3分钟执行一次

@@ -1,0 +1,1 @@
+将sftp文件随机分拣到/data/buffer/ai_jpg_tmp路径下的5个文件夹

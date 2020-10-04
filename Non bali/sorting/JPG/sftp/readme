@@ -1,0 +1,10 @@
+72程式：/home/hadoop/program/total_scripts/01jpg_migrate_20190423_v1.py
+
+1.将/data/sftp/aoisftp/upload
+正常JPG文件分拣至目录分拣到：
+/data/buffer/total_jpg/
+
+2.将carrier JPG分拣至目录
+/data/buffer/total_jpg_carrier/
+
+JOB执行方式-crontab

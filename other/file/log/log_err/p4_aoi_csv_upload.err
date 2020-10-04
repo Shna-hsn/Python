@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/armap/hbaseprogram/p4_aoi_csv_upload_v15.py", line 71, in <module>
+    csv_file_name_pre = csv_file[i].split("@")[1].split("|")[-1]
+IndexError: list index out of range
