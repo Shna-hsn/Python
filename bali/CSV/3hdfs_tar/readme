@@ -1,0 +1,11 @@
+80程式：/home/armap/program/tar_aoi_csv_v1.py
+封存csv:
+将/data/history/csv/aoi_csv/ 4天前的csv进行压缩封存，
+并存放至目录
+/hdata/history/csv/kckf_csv
+和hdfs目录
+/P8AOI/csv_archive/
+
+JOB执行方式-gocron
+job name:tar csv
+Job ID:75

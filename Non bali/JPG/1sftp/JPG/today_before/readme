@@ -1,0 +1,6 @@
+72程式：/home/hadoop/program/total_scripts/00jpg_migrate_today_before_20190111_v1.py
+将非今日文件分拣至目录
+/hdata/buffer/debug_total_jpg/today/
+将今日文件分拣至目录/data/buffer/total_jpg/
+
+JOB执行方式-crontab

@@ -1,0 +1,6 @@
+71&72程式：/home/hadoop/program/total_scripts/03migrate_archive_v2.py
+"将待封存文件夹/data/buffer/total_pre_arch/下文件按照日期封存于下面目录
+/data/history/jpeg/年月日"
+
+JOB执行方式-crontab
+10点后每小时执行一次，每次300,000份文件

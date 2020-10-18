@@ -1,0 +1,16 @@
+63程式：/home/hadoop/program/total_scripts/02jpg_upload_hdfs_20180608_v1_debug_1.py
+
+"将今日文件/data/buffer/total_jpg/按照目录上传至HDFS，
+目录/P8AOI/MapData/年月日目录
+,同时URL信息出入Kudu
+table:allie.aoi_imageurl
+Hbase:ie4_p8_csv
+一共3*6=18只，每只程序每6小时循环一次
+每只对应一个源目录，临时目录
+临时目录
+/bfdata/buffer/total_tmp01~06
+/bfdata/buffer/total_tmp11~16
+/bfdata/buffer/total_tmp21~26
+处理完后存入目录
+/hdata/buffer/total_pre_arch/
+JOB执行方式-crontab"

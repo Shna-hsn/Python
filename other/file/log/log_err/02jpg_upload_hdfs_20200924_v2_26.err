@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/home/hadoop/program/total_scripts/02jpg_upload_hdfs_20200924_v2_26.py", line 219, in <module>
+    handle()
+  File "/home/hadoop/program/total_scripts/02jpg_upload_hdfs_20200924_v2_26.py", line 190, in handle
+    shutil.move(upload_path + newname, temp_path +  model)
+  File "/usr/local/lib/python2.7/shutil.py", line 302, in move
+    copy2(src, real_dst)
+  File "/usr/local/lib/python2.7/shutil.py", line 130, in copy2
+    copyfile(src, dst)
+  File "/usr/local/lib/python2.7/shutil.py", line 83, in copyfile
+    with open(dst, 'wb') as fdst:
+IOError: [Errno 28] No space left on device: '/bfdata/buffer/total_tmp26/X1777/X1777-ISO-TOP_20200928_TB1-F16-TRI-03@20200928041216-FPW04026KJFNYD5B7.JPG'

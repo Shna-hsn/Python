@@ -1,0 +1,3 @@
+80程式：/home/armap/kuduprogram/p8_othertest_upload_data_buffer_bali_tmp/p8_othertest_upload_current_20180707_v1_local_data_buffer_bali_tmp_1~5.py
+将/data/buffer/kudu_othertest_csv_bail_tmp/1~5路径下的othertest_csv文件上传到kudu表：allie.test_...
+成功上传后备份到：/data/history/csv/othertest_csv

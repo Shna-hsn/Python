@@ -1,0 +1,8 @@
+72程式：/home/hadoop/program/01jpg_errorfile_modify_debug_total_jpg_lost_v1.py
+
+将非今日未正确上传HDFS的JPG文件从文件夹
+72/data/history/jpeg/lost/
+移动到
+/hdata/buffer/debug_total_jpg/100~600
+
+JOB执行方式-gocron

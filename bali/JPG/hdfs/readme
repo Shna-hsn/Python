@@ -1,0 +1,13 @@
+63程式/home/hadoop/program/total_scripts/02jpg_upload_hdfs_20180607_single_v1_bali_tmp_1~5.py
+
+将/bfdata/buffer/bali_aoi_jpg_tmp/1/Bail JPG文件上传至HDFS，
+目录/P8AOI/MapData/年月日目录
+,同时URL信息出入Kudu
+table:allie.aoi_imageurl
+Hbase:ie4_p8_csv
+一共5只，每只对应一个目录
+处理完后存入目录
+/hdata/buffer/total_pre_arch/
+
+JOB执行方式-crontab 每20分钟
+JOB名:#02 upload bali JPG to hadoop and kudu by single

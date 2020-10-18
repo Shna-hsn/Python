@@ -1,0 +1,10 @@
+80程式：/home/armap/hbaseprogram/p4_aoi_csv_upload_v15.py
+将/data/buffer/hbase_aoi_csv/路径下csv文件上传到hdfs
+## For HBase connection
+connection = happybase.Connection('10.41.158.65')
+table = connection.table('p8_aoi_csv')
+
+备份文件到：/data/history/csv/aoi_csv/' + 当前日期 + '/，并记录log文件：/home/armap/log_exc/'+ job_name +'_' +  rec_dat +'.record
+JOB执行方式-gocron
+job name:aoi csv to Hbase
+Job ID:63

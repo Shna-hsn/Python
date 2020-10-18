@@ -1,0 +1,6 @@
+80程式：/home/armap/hbaseprogram/p4_aoi_csv_upload_v15_bali.py
+将/data/buffer/hbase_bali_aoi_csv/路径下aoi_csv文件上传到hbase:p8_aoi_csv
+并将文件移动到/data/history/csv/aoi_csv/年月日
+JOB执行方式-gocron
+JOB ID:66
+JOB name:bali aoi csv to Hbase

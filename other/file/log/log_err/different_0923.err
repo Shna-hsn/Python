@@ -1,0 +1,362 @@
+20/10/04 16:01:39 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FMapData%2FR1%2F20200918
+20/10/04 16:01:41 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FMapData%2FX1098%2F20200918
+20/10/04 16:01:44 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FMapData%2FX1098A%2F20200918
+20/10/04 16:01:46 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1359A/20200918
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:01:48 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FMapData%2FX1488%2F20200918
+20/10/04 16:01:50 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FMapData%2FX1498%2F20200918
+20/10/04 16:01:52 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FMapData%2FX1524%2F20200918
+20/10/04 16:01:54 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FMapData%2FX1724%2F20200918
+20/10/04 16:01:56 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1724KCAP/20200918
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:01:58 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FMapData%2FX1726%2F20200918
+20/10/04 16:02:01 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FMapData%2FX1777%2F20200918
+20/10/04 16:02:05 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1777KCAP/20200918
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:02:07 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FMapData%2FX1778%2F20200918
+20/10/04 16:02:10 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FMapData%2FX1778KCAP%2F20200918
+20/10/04 16:02:12 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1991/20200918
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:02:14 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FMapData%2FX396A%2F20200918
+20/10/04 16:02:16 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Connecting to namenode via http://p8aoiprd05:50070/fsck?ugi=hadoop&files=1&blocks=1&path=%2FP8AOI%2FMapData%2FX530A%2F20200918
+Traceback (most recent call last):
+  File "/home/hadoop/program/total_scripts/different_0923.py", line 32, in <module>
+    shutil.move(split_path+"/"+aoi_file[i],lost_path+aoi_file[i])
+  File "/usr/local/lib/python2.7/shutil.py", line 317, in move
+    os.unlink(src)
+OSError: [Errno 13] Permission denied: '/hdata/history/jpeg/20200918/X1724-ISO-MB-180_20200918_TB1-F03-TRI-02@20200918010438-WFP0385G09EQ09T1A.JPG'
+able
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1098/20190314
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:05:54 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1098A/20190314
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:05:55 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1359A/20190314
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:05:58 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1488/20190314
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:06:00 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1498/20190314
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:06:03 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1524/20190314
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:06:04 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1724/20190314
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:06:06 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1724KCAP/20190314
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:06:08 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1726/20190314
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:06:12 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1777/20190314
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.
+20/10/04 16:06:14 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+FileSystem is inaccessible due to:
+java.io.FileNotFoundException: File does not exist: /P8AOI/MapData/X1777KCAP/20190314
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1309)
+	at org.apache.hadoop.hdfs.DistributedFileSystem$22.doCall(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystemLinkResolver.resolve(FileSystemLinkResolver.java:81)
+	at org.apache.hadoop.hdfs.DistributedFileSystem.getFileStatus(DistributedFileSystem.java:1301)
+	at org.apache.hadoop.fs.FileSystem.resolvePath(FileSystem.java:751)
+	at org.apache.hadoop.hdfs.tools.DFSck.getResolvedPath(DFSck.java:231)
+	at org.apache.hadoop.hdfs.tools.DFSck.doWork(DFSck.java:307)
+	at org.apache.hadoop.hdfs.tools.DFSck.access$000(DFSck.java:73)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:150)
+	at org.apache.hadoop.hdfs.tools.DFSck$1.run(DFSck.java:147)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1657)
+	at org.apache.hadoop.hdfs.tools.DFSck.run(DFSck.java:146)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:84)
+	at org.apache.hadoop.hdfs.tools.DFSck.main(DFSck.java:375)
+
+DFSck exiting.

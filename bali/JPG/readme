@@ -1,0 +1,9 @@
+机台上传文件到/data/sftp/aoisftp/upload_bali
+72程式/home/hadoop/program/01jpg_bali_move_data_buffer_bali_jpg_tmp_v1.py
+
+将bail 上传来的文件
+/data/sftp/aoisftp/upload_bali/
+分拣至5个目录
+/data/buffer/bali_aoi_jpg_tmp/1;
+/data/buffer/bali_aoi_jpg_tmp/5
+JOB执行方式-gocron

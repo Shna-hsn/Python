@@ -1,0 +1,6 @@
+80程式：
+/home/armap/kuduprogram/p8_AOI_upload_data_buffer_bali_tmp/p8_AOI_upload_current_20190414_v1_local_data_buffer_bali_tmp_1~5.py
+/home/armap/kuduprogram/p8_KCKF_upload_data_buffer_bali_tmp/p8_KCKF_upload_current_20190414_v1_buffer_bali_tmp_1~5.py
+/home/armap/kuduprogram/p8_othertest_upload_data_buffer_bali_tmp/p8_othertest_upload_current_20180707_v1_local_data_buffer_bali_tmp_1~5.py
+将三种csv文件上传kudu
+JOB执行方式：crontab

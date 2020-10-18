@@ -1,0 +1,6 @@
+72程式：/home/hadoop/program/01jpg_errorfile_modify_debug_total_jpg_today_v1.py
+将非今日目录/data/buffer/debug_total_jpg/today内文件随机放入6个文件夹
+/data/buffer/debug_total_jpg/100
+/data/buffer/debug_total_jpg/600
+
+JOB执行方式-crontab
